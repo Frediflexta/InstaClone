@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    InstaCloneGram
                 </div>
 
                 <div class="links">
